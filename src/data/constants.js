@@ -6,8 +6,9 @@ export const Bio = {
   ],
   description:
     "As a Web developer specialized in React, I am dedicated to crafting innovative user experiences. Thriving in collaborative environments, I leverage my skills to contribute to projects. Utilizing HTML, CSS, JavaScript, and Deluge, I've developed user-responsive, data-driven web applications, enhancing customer satisfaction and retention. Committed to continuous learning, I seek opportunities to expand my expertise and add value to your team.",
+  github: "https://github.com/hari11918",
   resume:
-    "https://drive.google.com/file/d/1dcLY4IEYQKJ6OC00OpeH4zDVOkV2WW0x/view?usp=sharing",
+    "https:https://drive.google.com/file/d/11jHHCqwDjEjswYB9LbZiUlDUcknvPy4U/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/hariharammurthy-k-2b8258142/",
   insta: "https://www.instagram.com/harriedaway/",
 };
@@ -204,7 +205,7 @@ export const projects = [
       "HTML & CSS",
       "Axios API",
     ],
-    github: "",
+    github: "https://github.com/hari11918/Food-delivery",
   },
   {
     id: 1,
